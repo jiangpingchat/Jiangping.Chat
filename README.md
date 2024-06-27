@@ -1,7 +1,11 @@
-<h1 align="center"> 🤷‍♀️姜萍真的是天才吗 🤷‍♂️ <br/> </h2> 
-
 <p align="center"><img width=50% src="https://jiangping.chat/uploads/default/original/1X/9c9fec5157da397ada549fd6b977274968df4f0e.png"></p>
 
+
+
+## 顺便搞了个讨论区 Jiangping.Chat
+https://jiangping.chat   一个开源社区，理性讨论造神活动
+
+<br/>
 
 关于姜萍事件争论比较激烈
 
@@ -28,6 +32,19 @@
 **尤其是对于那些模糊的、未经求证的信息或者已经被证伪的谣言**
 
 
-## 顺便搞了个讨论区 Jiangping.Chat
-https://jiangping.chat   
-一个开源社区，理性讨论造神活动
+
+## 正方证据
+| 原始信息 | 真 or 假 |
+| :--- | :--- |
+| 赵斌道歉 | ❌ | 
+
+
+
+## 反方证据
+
+| 原始信息 | 真 or 假 |
+| :--- | :--- |
+| 赵斌质疑 | ✅ | 
+
+
+
