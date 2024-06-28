@@ -36,8 +36,11 @@ https://jiangping.chat   一个开源社区，理性讨论造神活动
 ## 正方证据
 | 原始信息 | 真 or 假 |
 | :--- | :--- |
+| 达摩院官宣决赛名单中姜萍在列 |  ✅  | 
 | 赵斌道歉 | ❌ | 
-
+| 凤凰网采访姜萍邻居，表示从小学习好，分数能达到普高 | ✅  |
+| 哈佛大学抛出橄榄枝 | ❌ | 
+| 姜萍决赛全程直播 | ❌ | 
 
 
 ## 反方证据
@@ -45,6 +48,18 @@ https://jiangping.chat   一个开源社区，理性讨论造神活动
 | 原始信息 | 真 or 假 |
 | :--- | :--- |
 | 赵斌质疑 | ✅ | 
+| 北大数学教授袁新意质疑姜萍 | ✅ | 
+| 浙大数高院院长厉建书院士邀请姜萍参加暑期班，姜萍方无回应 | ✅ | 
+| 浙大数学学院发布了2024年夏令营的参加人员名单，名单中没有姜萍 |  ✅ | 
+| 凤凰网发布视频，月考83分截图为真，[涟水政府信件页面](https://ssl.huaian.gov.cn/letterClientController/info.do?letterId=2c94938e9047dbee019049843247003b&view=/cms/letter/client/letterInfo_ls.jsp) | ✅  | 
 
+## 一些不确定真伪的信息汇总
+
+1. 浙大学生会回应邀请姜萍后续
+<p><img width="482" alt="image" src="https://github.com/jiangpingchat/Jiangping.Chat/assets/173880252/9ed2a673-9c5b-4950-8382-23d1dfa64a2e"></p>
+<br>
+
+
+3. 
 
 
