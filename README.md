@@ -61,7 +61,9 @@ https://jiangping.chat   一个开源社区，理性讨论造神活动
 <p><img width="482" alt="image" src="https://github.com/jiangpingchat/Jiangping.Chat/assets/173880252/9ed2a673-9c5b-4950-8382-23d1dfa64a2e"></p>
 <br>
 
+2. 网传朋友聊天记录截图
 
-3. 
+   ![image](https://github.com/jiangpingchat/Jiangping.Chat/assets/173880252/dfdf1765-01b4-42f3-8154-fe7c7a952f8a)
+ 
 
 
