@@ -47,11 +47,13 @@ https://jiangping.chat   一个开源社区，理性讨论造神活动
 
 | 原始信息 | 真 or 假 |
 | :--- | :--- |
+| 达摩院采访姜萍视频中板书存在错误 | ✅ | 
 | 赵斌质疑 | ✅ | 
 | 北大数学教授袁新意质疑姜萍 | ✅ | 
 | 浙大数高院院长厉建书院士邀请姜萍参加暑期班，姜萍方无回应 | ✅ | 
 | 浙大数学学院发布了2024年夏令营的参加人员名单，名单中没有姜萍 |  ✅ | 
 | 凤凰网发布视频，月考83分截图为真，[涟水政府信件页面](https://ssl.huaian.gov.cn/letterClientController/info.do?letterId=2c94938e9047dbee019049843247003b&view=/cms/letter/client/letterInfo_ls.jsp) | ✅  | 
+| 阿赛多名选手联名请愿对姜萍事件展开调查，[发起人本人声明](https://www.zhihu.com/question/659628342/answer/3539037805)| ✅ |
 
 ## 一些不确定真伪的信息汇总
 
